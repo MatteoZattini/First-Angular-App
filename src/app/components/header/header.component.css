@@ -1,0 +1,15 @@
+.container-fluid {
+    background-color: blueviolet;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+img {
+    height: 3rem;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding-left: 3rem;
+}
